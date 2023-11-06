@@ -9,7 +9,7 @@ births_df <- read.csv("files/births.csv")
 score_df <- read.csv("files/score.csv")
 
 # Examine the births dataset
-head(births)
+head(births_df)
 
 # Transform variables to factors with labels
 births_df$lowbw <- factor(births_df$lowbw,
@@ -102,7 +102,7 @@ gestwks_v_bweight <- ggplot(merged_df, aes(x = gestwks, y = bweight)) +
 print(gestwks_v_bweight)
 
 # Now you can save the plot using ggsave()
-ggsave("BweightvsgestwksR.pdf", plot = p, device = "pdf", width = 7, height = 7)
+ggsave("BweightvsgestwksR.pdf", plot = gestwks_v_bweight, device = "pdf", width = 7, height = 7)
 
 
 # Save final dataframe
