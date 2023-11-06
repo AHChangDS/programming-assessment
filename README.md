@@ -9,6 +9,9 @@ It includes needed files in a folder "files"
 
 ### R file
 Install R version 4.3.1 (2023-06-16) -- "Beagle Scouts"
+Note the working directory has been set to the folder the R file is currently in. 
+This only works in R studio.
+If you are not using R studio, please set working directory to source file location.
 
 
 1. One

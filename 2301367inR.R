@@ -1,8 +1,7 @@
 #Programming Asessment
 #Student number 2301367
 
-
-setwd("~/Documents/Coding/programming-assessment")
+setwd(dirname(rstudioapi::getSourceEditorContext()$path))
 
 # Read in data from the two files
 births_df <- read.csv("files/births.csv")
