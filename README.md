@@ -1,5 +1,6 @@
 # Programming Assessment Readme
 This folder contains two files, one in Juptyer notebooks and one in R, that merges two datasets in the folder files, cleans and merges them.
+It includes needed files in a folder "files"
 
 ## Getting started
 
@@ -7,6 +8,8 @@ This folder contains two files, one in Juptyer notebooks and one in R, that merg
 ### Jupyter Notebooks
 
 ### R file
+Install R version 4.3.1 (2023-06-16) -- "Beagle Scouts"
+
 
 1. One
 2. Two

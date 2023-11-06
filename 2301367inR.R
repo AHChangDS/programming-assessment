@@ -1,3 +1,6 @@
+#Programming Asessment
+#Student number 2301367
+
 
 setwd("~/Documents/Coding/programming-assessment")
 
