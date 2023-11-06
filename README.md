@@ -19,14 +19,3 @@ It includes needed files in a folder "files"
 2. Open `2301367.R` in R Studio
 3. Load depedencies
 4. Run
-
-
-1. One
-2. Two
-
-- Bullet A
-- Bullet B
-
-
-
-Go here [Google](https://google.com)
