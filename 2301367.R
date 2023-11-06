@@ -1,5 +1,6 @@
 # Programming Asessment
 # Student number 2301367
+install.packages("ggplot2")
 library(ggplot2)
 
 setwd(dirname(rstudioapi::getSourceEditorContext()$path))
