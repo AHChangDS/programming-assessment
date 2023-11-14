@@ -1,11 +1,13 @@
 # Programming Assessment Readme
 This folder contains two files, one in Juptyer notebooks and one in R, that merges two datasets in the folder files, cleans and merges them.
-It includes needed files in a folder "files"
+It includes needed files in a folder "files".
+
+Please use Mac OS X or WSL.
 
 ## Getting started - Python
 
-1. Git clone this repository or download as a zip and unzip to local filesystem
-2. `cd programming-assessment`
+1. Download as a zip and unzip to local filesystem
+2. Open the folder in terminal
 3. Create new virtual environment `python -m venv env`
 4. Activate the virtual environment `source env/bin/activate`
 5. Install dependencies `pip install -r requirements.txt`
