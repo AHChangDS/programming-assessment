@@ -18,6 +18,6 @@ Please use Mac OS X or WSL.
 ### R file
 
 1. Install R version 4.3.1 (2023-06-16) -- "Beagle Scouts"
-2. Open `2301367.R` in R Studio
-3. Load depedencies
+2. Open `2301367.R` in R Studio 2023.09.1 "Desert Sunflower"
+3. Load dependencies
 4. Run
