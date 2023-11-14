@@ -2,6 +2,7 @@
 This folder contains two files, one in Juptyer notebooks and one in R, that merges two datasets in the folder files, cleans and merges them.
 It includes needed files "births.csv" and "score.csv" in a folder "files".
 It also contains a "requirements.txt" file which includes the dependneces for the python file.
+Each file Python or R, will output a csv file of the cleaned and merged data, and a graph in PDF.
 
 Please use Mac OS X or WSL.
 
