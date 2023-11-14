@@ -105,8 +105,8 @@ gestwks_v_bweight <- ggplot(merged_df, aes(x = gestwks, y = bweight)) +
 print(gestwks_v_bweight)
 
 # Now you can save the plot using ggsave()
-ggsave("BweightvsgestwksR.pdf", plot = gestwks_v_bweight, device = "pdf", width = 7, height = 7)
+ggsave("2301367_bweight_vs_gestwks_R.pdf", plot = gestwks_v_bweight, device = "pdf", width = 7, height = 7)
 
 
 # Save final dataframe
-write.csv(merged_df, file = "finaldatasetR.csv", row.names = FALSE)
+write.csv(merged_df, file = "2301367_final_dataset_R.csv", row.names = FALSE)
