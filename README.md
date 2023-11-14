@@ -10,9 +10,9 @@ Please use Mac OS X or WSL.
 
 1. Download as a zip and unzip to local filesystem
 2. Open the folder in terminal
-3. Create new virtual environment `python -m venv env`
-4. Activate the virtual environment `source env/bin/activate`
-5. Install dependencies `pip install -r requirements.txt`
+3. Create new virtual environment eg `python -m venv env`
+4. Activate the virtual environment eg`source env/bin/      activate`
+5. Install dependencies from the "requirements.txt" file `pip install -r requirements.txt`
 6. Run Jupyter Notebook `2301367.ipynb` using this virtual environment
 
 ## Getting started - R
