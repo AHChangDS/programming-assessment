@@ -1,6 +1,7 @@
 # Programming Assessment Readme
 This folder contains two files, one in Juptyer notebooks and one in R, that merges two datasets in the folder files, cleans and merges them.
-It includes needed files in a folder "files".
+It includes needed files "births.csv" and "score.csv" in a folder "files".
+It also contains a "requirements.txt" file which includes the dependneces for the python file.
 
 Please use Mac OS X or WSL.
 
@@ -11,7 +12,7 @@ Please use Mac OS X or WSL.
 3. Create new virtual environment `python -m venv env`
 4. Activate the virtual environment `source env/bin/activate`
 5. Install dependencies `pip install -r requirements.txt`
-5. Run Jupyter Notebook `2301367.ipynb` using this virtual environment
+6. Run Jupyter Notebook `2301367.ipynb` using this virtual environment
 
 ## Getting started - R
 
