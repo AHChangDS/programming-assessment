@@ -1,5 +1,5 @@
 # Programming Asessment
-# Student number 2301367
+# Candidate number 491928
 install.packages("ggplot2")
 install.packages("rstudioapi")
 library(rstudioapi)
